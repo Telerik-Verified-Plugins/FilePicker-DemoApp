@@ -1,0 +1,45 @@
+{
+  "ProjectName": "File Picker",
+  "ProjectGuid": "41ce1c4e-a192-4029-86fa-84fd6525fb65",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.FilePicker",
+  "DisplayName": "File Picker",
+  "Author": "",
+  "Description": "File Picker",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{a5a86a9b-08ab-44e3-9e9a-f7b19b23a56b}",
+  "WP8ProductID": "{25d32206-33ee-4082-9b50-5f703b6fdecd}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.FilePicker",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
