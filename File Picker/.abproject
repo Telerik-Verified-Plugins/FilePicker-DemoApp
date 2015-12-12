@@ -3,10 +3,10 @@
   "ProjectGuid": "41ce1c4e-a192-4029-86fa-84fd6525fb65",
   "projectVersion": 1,
   "AppIdentifier": "com.telerik.plugindemo.filepickerdemo",
-  "DisplayName": "File Picker Demo",
+  "DisplayName": "File Picker",
   "Author": "Telerik",
-  "Description": "File Picker Demo",
-  "BundleVersion": "1.0.4",
+  "Description": "File Picker",
+  "BundleVersion": "1.0.6",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
     "1",
@@ -14,7 +14,7 @@
   ],
   "iOSBackgroundMode": [],
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "FrameworkVersion": "3.7.0",
+  "FrameworkVersion": "4.0.0",
   "AndroidPermissions": [
     "android.permission.INTERNET"
   ],
@@ -22,7 +22,7 @@
     "Portrait",
     "Landscape"
   ],
-  "AndroidHardwareAcceleration": "false",
+  "AndroidHardwareAcceleration": "True",
   "iOSStatusBarStyle": "Default",
   "Framework": "Cordova",
   "WP8TileTitle": "",
@@ -43,12 +43,13 @@
     "ID_RESOLUTION_HD720P"
   ],
   "CorePlugins": [
-    "com.jcesarmobile.filepicker@1.2.0",
-    "org.apache.cordova.console",
-    "org.apache.cordova.device",
-    "org.apache.cordova.dialogs",
-    "org.apache.cordova.splashscreen",
-    "org.apache.cordova.statusbar"
+    "cordova-plugin-console",
+    "cordova-plugin-device",
+    "cordova-plugin-dialogs",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-statusbar",
+    "cordova-plugin-whitelist",
+    "com.jcesarmobile.filepicker@1.2.1"
   ],
   "iOSDeploymentTarget": "7.0"
 }

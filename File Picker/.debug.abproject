@@ -1,3 +1,12 @@
 {
-  "CordovaPluginVariables": {}
+  "CordovaPluginVariables": {},
+  "CorePlugins": [
+    "cordova-plugin-console",
+    "cordova-plugin-device",
+    "cordova-plugin-dialogs",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-statusbar",
+    "cordova-plugin-whitelist",
+    "com.jcesarmobile.filepicker@1.2.1"
+  ]
 }
